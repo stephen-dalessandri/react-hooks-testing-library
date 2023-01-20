@@ -33,3 +33,5 @@ Please check out the
 [the open issues](https://github.com/testing-library/react-hooks-testing-library/issues).
 
 Also, please watch the repo and respond to questions/bug reports/feature requests! Thanks!
+
+foo
